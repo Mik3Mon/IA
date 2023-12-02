@@ -1,0 +1,996 @@
+﻿id,producto,precio,descripcion
+1,Chilaquiles,$30.00,"Comida, Tradicional, Mexicano, Crujiente, Desayuno."
+2,Cigarro Electrico,$60.00,Electronico.
+3,Pantalon,$120.00,"Moderno, Comodo, Versátil."
+4,Tiramisu,$30.00,"Exquisito, Dulce, Porción Perfecta."
+5,Galleta,$20.00,"Deliciosa, Crujiente, Satisfactoria, Postre, Dulce."
+6,Hoja De Color,$2.00,"Brillante, Creativa"
+7,Blusa,$150.00,"Elegante, Cómoda, Versátil."
+8,Bisuteria,$100.00,"Elegante, Accesorios, Adornos."
+9,Orden De Tacos De Canasta,$20.00,"Sabrosos, Sabores Variados, Grasosos, Baratos."
+10,Máscara De Payaso,$250.00,"Halloween, Disfraz."
+11,Caja De Colores,$80.00,"Vibrante, Creativa, Surtida, Escolar."
+12,Torta,$30.00,"Comida, Desayuno, Barato."
+13,Playera,$100.00,"Ropa Casual, Comodo."
+14,Caja De Donas,$120.00,"Chatarra, Desayuno, Postre, Dulce."
+15,Marcatextos,$10.00,"Vibrantes, Resaltantes, Útiles, Escolar."
+16,Botana Preparada,$15.00,"Sabrosa, Lista Para Disfrutar, Variada, Chatarra."
+17,Taza,$50.00,"Resistente, Versátil, Diseño Único."
+18,Peluche,$90.00,"Suave, Adorable, Abrazable."
+19,Protector Solar,$70.00,"Efectivo, Imprescindible, Cuidado Diario."
+20,Tenis,$800.00,"Deportivo, Comodo, Estilo Juvenil."
+21,Rebanada De Pastel,$30.00,"Deliciosa, Tentadora, Porción Perfecta."
+22,Camisa,$200.00,"Elegante, Formal."
+23,Pizza,$20.00,"Deliciosa, Comida, Barata, Chatarra."
+24,Balon De Futbol,$100.00,"Deportivo, Futbol."
+25,Coca-Cola,$18.00,"Bebida, Chatarra, Dulce, Comida, Lata"
+26,Café,$20.00,"Bebida, Desayuno, Amargo."
+27,Barra De Chocolate,$24.00,"Amargo, Chatarra, Dulce."
+28,Balon De Basquetbol,$120.00,"Deportivo, Basquetbol."
+29,Playera Deportiva,$150.00,"Deportivo, Comodo."
+30,Sabritas,$20.00,"Comida, Chatarra, Barato."
+31,Audifonos,$45.00,"Musica, Dispositivo Electronico."
+32,Agua Natural,$8.00,"Bebida, Saludable."
+33,Linterna Led,$50.00,"Portátil, Iluminación, Duradera"
+34,Paquete De Calcetines,$80.00,"Cómodos, Económicos, Variedad De Colores"
+35,Caja De Herramientas,$400.00,"Práctica, Organizada, Herramientas"
+36,Set De Marcadores,$50.00,"Coloridos, Para Resaltar, Variados"
+37,Abridor De Latas,$40.00,"Práctico, Duradero, Herramienta De Cocina"
+38,Reloj De Pulsera,$225.00,"Elegante, Funcional"
+39,Kit De Costura,$190.00,"Práctico, Para Reparaciones"
+40,Bolígrafos Gel,$40.00,"Suaves, Tinta De Secado Rápido"
+41,Almohada De Viaje,$110.00,"Cómoda, Compacta"
+42,Set De Platos Desechables,$50.00,"Práctico, Desechable"
+43,Lápiz Mecánico,$35.00,"Preciso, Recargable"
+44,Gorro De Lana,$90.00,"Abrigado, Cómodo"
+45,Estuche De Maquillaje,$140.00,"Organizado, Compacto"
+46,Juego De Toallas De Baño,$95.00,"Suaves, Absorbentes"
+47,Pegamento Multiusos,$28.00,"Versátil, Fuerte, Manualidades"
+48,Caja De Condimentos Variados,$80.00,"Cocina, Sabores"
+49,Bálsamo Labial,$35.00,"Hidratante, Cuidado Personal"
+50,Set De Cuencos Para Mezclar,$40.00,"Práctica, Cocina"
+51,Kit De Manicura,$190.00,"Cuidado Personal, Uñas, Práctico"
+52,Termo De Acero Inoxidable,$150.00,"Práctico. Duradero, Bebidas"
+53,Kit De Costura De Emergencia,$50.00,"Compacto, Para Reparaciones Rápidas, Práctico"
+54,Aceite Esencial De Lavanda,$100.00,"Relajante, Aromático, Para Difusores"
+55,Set De Bloques De Construcción,$200.00,"Educativo, Creativo, Para Niños."
+56,Juego De Tazones Para Ensalada,$240.00,"Modernos, Cocina, Trastes"
+57,Alicate Multiusos,$100.00,"Versátil, Herramientas"
+58,Set De Imanes Para Refrigerador,$50.00,"Decorativos, Prácticos"
+59,Papel De Regalo,$10.00,"Colorido, Para Envolver Regalos"
+60,Caja De Juegos De Mesa,$300.00,"Divertido, Entretenido, Para Reuniones"
+61,Abrebotellas,$40.00,"Práctico, Herramienta, Cocina"
+62,Pelota Antiestrés,$30.00,"Alivia El Estrés, Divertida, Para Apretar"
+63,Kit De Limpieza Para Pantalla,$90.00,"Efectivo, Para Dispositivos Electrónicos"
+64,Bolsa De Almendras Tostadas,$35.00,"Saludable, Energizante, Snack"
+65,Set De Velas Aromáticas,$40.00,"Relajantes, Aromáticas, Para Crear Ambiente."
+66,Caja De Pañuelos Faciales,$50.00,"Suaves, Desechables, Cuidado Personal"
+67,Cinta Adhesiva Transparente,$30.00,"Práctica, Para Manualidades Y Uso General."
+68,Juego De Vasos De Vidrio,$120.00,"Elegantes, Versátiles, Para Bebidas"
+69,Taza Térmica,$90.00,"Mantiene La Temperatura, Para Bebidas Calientes."
+70,Lápiz Corrector,$20.00,"Escritura, Precición"
+71,Cafe,$15.00,"Envase, Sabor, Cafe, Tostado, Fresco, Molido, Preparacion, Olor, Color, Textura, Aroma, Grano, Barato"
+72,Concha,$14.00,"Suave, Dulce, Pan, Forma, Textura, Color, Barato"
+73,Cuernito,$20.00,"Dulce, Fresco, Pan, Lonche, Comida, Barato"
+74,Cuernito Con Queso,$23.00,"Dulce, Fresco, Pan, Lonche, Comida, Caro, Queso, Sabroso, Horneado, Delicioso"
+75,Cuernito Con Jamon,$28.00,"Dulce, Fresco, Pan, Lonche, Comida, Barato, Crudo, Horneado, Saludable"
+76,Sandwich De Jamon,$30.00,"Delicioso, Pan, Lonche, Desayuno, Comida, Barato, Horneado, Bueno, Sabroso"
+77,Sandwich De Queso,$35.00,"Dulce, Pan, Lonche, Comida, Barato, Horneado, Saludable, Balanceado, Grasoso, Fresco, Casero"
+78,Sandwich De Carne,$49.00,"Fresco, Pan, Comida, Caro, Balanceado, Grasoso, Llenador, Delicioso, Carne"
+79,Sandwich Vegano,$49.00,"Fresco, Pan, Comida, Caro, Balanceado, Apetitoso, Saludable, Casero"
+80,Sandwich De Pollo,$39.00,"Pan, Comida, Barato, Grasoso, Rancio, Saludable, Casero, Horneado, Delicioso, Pollo"
+81,Quesadilla De Queso,$20.00,"Comida, Tortilla, Queso, Maiz, Fresco, Grasoso, Barato, Balanceado, Sabor"
+82,Quesadilla De Pollo,$20.00,"Comida, Tortilla, Pollo, Maiz, Fresco, Barato, Sabor, Sabroso, Delicioso, Bueno"
+83,Quesadilla De Carne,$20.00,"Comida, Tortilla, Carne, Maiz, Completo, Balanceado, Caro, Delicioso"
+84,Quesadilla Dorada,$20.00,"Grasoso, Caro, Maiz, Tortilla, Queso, Llenador, Rancio, Malo, Comida, Lonche"
+85,Quesadilla De Picadillo,$20.00,"Barato, Maiz, Tortilla, Queso, Delicioso, Balanceado, Lonche, Comida, Carne"
+86,Quesadilla De Tinga,$20.00,"Barato, Maíz, Suave, Delicioso, Picoso, Llenador, Fresco, Calidad, Pollo"
+87,Quesadilla De Verdura,$25.00,"Sano, Saludable, Caro, Vegetales, Llenador, Maiz, Tortilla, Suave, Comida, Delicioso"
+88,Tamal De Dulce,$24.00,"Sabor, Dulce, Maiz, Desayuno, Comida, Llenador, Sabroso, Balanceado, Grasoso, Barato, Apetitoso"
+89,Tamal De Pollo,$24.00,"Dulce, Sabor, Caro, Maiz, Comida, Desayuno, Llenador, Queso, Vegetales, Balanceado, Pollo"
+90,Tamal De Mole,$24.00,"Grasoso, Picante, Pollo, Balanceado, Sabor, Calidad, Llenador, Comida, Maiz, Bueno"
+91,Tamal De Rajas,$24.00,"Picante, Vegetales, Maiz, Rancio, Barato, Grasoso, Suave, Malo"
+92,Tamal De Piña,$24.00,"Dulce, Delicioso, Barato, Sabor, Textura, Maiz, Suave, Llenador, Bueno, Desayuno"
+93,Tamal De Dorado,$20.00,"Rancio, Grasoso, Malo, Maiz, Suave, Textura, Llenador, Comida"
+94,Tamal Oaxaqueño,$28.00,"Picante, Suave, Maiz, Sabor, Delicioso, Desayuno, Comida, Llenador, Queso, Bueno, Grasoso"
+95,Torta De Jamon,$22.00,"Balanceado, Bueno, Barato, Crudo, Pan, Bolillo, Delicioso, Comida, Textura, Horneado"
+96,Torta De Pollo,$25.00,"Pollo, Delicioso, Barato, Textura, Comida, Horneado, Sabor, Bolillo"
+97,Torta De Carne,$30.00,"Bolillo, Carne, Delicioso, Horneado, Caro, Comida, Textura, Llenador"
+98,Torta De Quesillo,$20.00,"Queso, Bolillo, Delicioso, Barato, Horneado, Comida, Textura, Llenador, Bueno, Balanceado, Sabor, Grasoso"
+99,Torta De Milanesa,$25.00,"Bolillo, Carne, Delicioso, Horneado, Sabor, Caro, Balanceado, Vegetales, Comida"
+100,Torta De Pastor,$30.00,"Carne, Bolillo, Caro, Delicioso, Grasoso, Bueno, Horneado, Textura, Calidad, Llenador, Vegetales, Suave"
+101,Torta De Tofu,$25.00,"Suave, Balanceado, Delicioso, Caro, Comida, Vegano, Pan, Bolillo, Horneado"
+102,Tostada De Pollo,$15.00,"Crujiente, Delicioso, Barato, Pollo, Crema, Comida , Express, Saludable"
+103,Tostada De Tinga,$15.00,"Crujiente, Delicioso, Barato, Pollo, Crema, Comida , Express, Saludable, Picante, Sabor, Sazon, Textura"
+104,Tostada De Carne,$20.00,"Crujiente, Delicioso, Barato, Carne, Crema, Comida , Express, Balanceado, Sabor, Sazon"
+105,Tostada De Picadillo,$15.00,"Crujiente, Delicioso, Barato, Carne, Crema, Comida , Express, Balanceado, Sabor, Textura, Llenador"
+106,Tostada De Crema,$13.00,"Crujiente, Delicioso, Barato, Crema, Comida , Express, Grasoso, Balanceado, Bueno"
+107,Tostada De Crema Con Queso,$10.00,"Grasoso, Crujiente, Delicioso, Crema, Comida, Express, Textura, Sabor, Llenador"
+108,Tostada De Vegetales,$15.00,"Balanceado, Vegano, Delicioso, Saludable, Vegetales, Comida, Textura, Express"
+109,Bolillo,$3.00,"Pan, Suave, Horneado, Textura, Sabor, Bueno, Dulce, Comida"
+110,Telera,$4.00,"Pan, Suave, Textura, Sabor, Comida, Delicioso"
+111,Pan De Muerto,$15.00,"Dulce, Azucarado, Grasoso, Textura, Sabor, Delicioso"
+112,Pan De Muerto Con Chocolate,$20.00,"Dulce, Azucarado, Grasoso, Textura, Sabor, Delicioso, Chocolate, Express, Comida"
+113,Pan De Elote,$25.00,"Dulce, Delicioso, Sabor, Textura, Horneado, Bueno, Pan, Vegetales"
+114,Fruta Preparada,$16.00,"Dulce, Llenador, Delicioso, Fruta, Saludable, Comida, Desayuno, Aperitivo, Express"
+115,Hamburguesa,$59.00,"Caro, Llenador, Grasoso, Delicioso, Suave, Sazon, Textura, Horneado, Pan, Carne, Vegetales"
+116,Hot Dog,$18.00,"Carne, Barato, Express, Llenador, Bueno, Delicioso, Grasoso, Comida, Textura, Horneado"
+117,Sopa Maruchan,$20.00,"Barato, Express, Aperitivo, Comida, Grasoso, Lonche"
+118,Sopa Maruchan Preparada,$25.00,"Caro, Aperitivo, Llenador, Grasoso, Balanceado, Lonche, Vegetales, Carne, Textura"
+119,Taco De Milanesa,$12.00,"Maiz, Tortilla, Express, Balanceado, Delicioso, Comida, Llenador, Carne, Bueno"
+120,Taco De Canasta,$5.00,"Grasoso, Barato, Express, Carne, Comida, Delicioso, Textura, Maiz, Tortilla, Calidad"
+121,Taco De Guisado,$12.00,"Maiz, Tortilla, Express, Balanceado, Delicioso, Comida, Llenador, Calidad, Carne, Vegetales"
+122,Taco De Carne Enchilada,$15.00,"Maiz, Tortilla, Picoso, Delicioso, Textura, Carne, Comida, Llenador, Calidad, Express, Balanceado"
+123,Taco Vegano,$15.00,"Maiz, Tortilla, Saludable, Delicioso, Vegano, Comida, Calidad, Fresco, Express"
+124,Taco De Suadero,$15.00,"Maiz, Tortilla, Carne, Delicioso, Express, Calidad, Balanceado, Grasoso, Textura"
+125,Taco De Bistec,$15.00,"Maiz, Tortilla, Comida, Carne, Delicioso, Express, Calidad, Grasoso, Llenador"
+126,Taco Campechano,$15.00,"Maiz, Tortilla, Comida, Carne, Delicioso, Express, Calidad, Grasoso, Llenador, Textura, Suavidad, Fresco"
+127,Taco De Pollo,$15.00,"Maiz, Tortilla, Comida, Pollo, Bueno, Express, Llenador, Textura, Suavidad, Fresco"
+128,Taco Dorado,$15.00,"Grasoso, Maiz, Tortilla, Comida, Pollo, Carne, Express, Llenador, Crujiente, Barato, Textura"
+129,Taco De Chicharron,$15.00,"Suave, Barato, Delicioso, Maiz, Tortilla, Grasoso, Sazon, Textura, Calidad, Carne"
+130,Agua De Frutas,$23.00,"Fresco, Natural, Fruta, Bebida, Agua, Refrescante, Buena, Barato, Calidad"
+131,Agua Simple,$20.00,"Fresco, Natural, Bebida, Agua, Refrescante, Buena, Barato, Calidad,"
+132,Agua Embotellada,$15.00,"Fresco, Natural, Fruta, Bebida, Agua, Refrescante, Buena, Caro, Envase"
+133,Agua De Fresa,$23.00,"Fresco, Natural, Fruta, Bebida, Agua, Refrescante, Buena, Barato, Calidad, Fresa"
+134,Agua De Sandia,$23.00,"Fresco, Natural, Fruta, Bebida, Agua, Refrescante, Buena, Barato, Calidad, Sandia"
+135,Agua De Mango,$23.00,"Fresco, Natural, Fruta, Bebida, Agua, Refrescante, Buena, Barato, Calidad, Mango"
+136,Agua De Melon,$23.00,"Fresco, Natural, Fruta, Bebida, Agua, Refrescante, Buena, Barato, Calidad, Melon"
+137,Agua De Naranja,$23.00,"Fresco, Natural, Fruta, Bebida, Agua, Refrescante, Buena, Barato, Calidad, Naranja"
+138,Jugo De Naranja,$15.00,"Fresco, Naranja, Jugo, Delicioso, Refrescante, Barato, Natural, Calidad"
+139,Jugo De Manzana,$15.00,"Fresco, Manzana, Jugo, Delicioso, Refrescante, Barato, Natural, Calidad, Textura, Express"
+140,Jugo De Guayaba,$15.00,"Fresco, Guayaba, Jugo, Delicioso, Refrescante, Barato, Natural, Calidad, Saludable"
+141,Agua De Crema De Fresa,$25.00,"Fresco, Fresa, Bebida, Delicioso, Refrescante, Barato, Natural, Calidad, Cremoso"
+142,Agua De Crema De Mango,$25.00,"Fresco, Mango, Bebida, Delicioso, Refrescante, Barato, Natural, Calidad, Cremoso, Textura"
+143,Agua De Crema De Coco,$25.00,"Fresco, Coco, Bebida, Delicioso, Refrescante, Caro, Natural, Calidad, Cremoso, Express"
+144,Sandia Picada,$18.00,"Natural, Saludable, Fruta, Picada, Sandia, Express, Delicioso"
+145,Melon Picado,$18.00,"Natural, Saludable, Fruta, Picada, Melon, Express, Delicioso, Fresco"
+146,Jicama Picada,$18.00,"Natural, Saludable, Fruta, Picada, Jicama, Express, Delicioso"
+147,Zanahoria Rallada,$18.00,"Natural, Saludable, Vegetales, Picada, Zanahoria, Express, Fresco, Vegetariano, Textura"
+148,Refresco Preparado,$25.00,"Fresco, Bebida, Delicioso, Frío, Refrescante, Dulce, Sabores, Tajín, Chile, Hielo, Sangría, Tamarindo, Chamoy, Refresco"
+149,Sushi,$60.00,"Oriental, Delicioso, Pescado, Snack, Express, Comida, Sabor, Lonche, Calidad, Frescura, Cantidad, Sushi"
+150,Malteada,$35.00,"Delicioso, Fresco, Frío, Leche, Sabor, Bebida, Snack, Dulce, Helado, Fresa, Chocolate, Vainilla, Oreo, Hielo, Malteada"
+151,Helado,$20.00,"Frío, Refrescante, Dulce, Sabroso, Hielo, Fresa, Chocolate, Vainilla, Menta, Cono, Barato, Helado"
+152,Limonada,$20.00,"Fresco, Limonada, Limón, Hielo, Azúcar, Bebida, Refrescante, Saludable, Agua, Limonada"
+153,Naranjada,$20.00,"Fresco, Naranada, Naranja, Hielo, Azúcar, Bebida, Refrescante, Saludable, Agua, Naranjada"
+154,Ponche,$25.00,"Delicioso, Navidad, Barato, Caliente, Fruta, Azúcar, Caña, Tamarindo, Bebida, Calidad, Ponche"
+155,Smoothie,$30.00,"Frío, Dulce, Fruta, Bebida, Refrescante, Fresa, Mango, Chocolate, Mora, Zarzamora, Smoothie"
+156,Pines,$50.00,"Forma, Color, Figura, Personaje, Película, Cantidad, Calidad, Pines"
+157,Tintas,$190.00,"Color, Brillo, Maquillaje, Tinta, Labial, Rojo, Textura, Cosméticos, Multiusos, Mejillas, Duración, Tintas"
+158,Maquillaje,$90.00,"Tonalidad, Color, Brillo, Textura, Cosméticos, Duración, Líquido, Polvo, Compacto, Mejillas, Cobertura, Maquillaje"
+159,Labial,$90.00,"Cosmético, Pigmento, Color, Maquillaje, Duración, Tonalidad, Colores, Brillo, Mate, Marca, Labial"
+160,Rimel,$50.00,"Marca, Cosmético, Maquillaje, Duración, Textura, Aplicador, Ingredientes, Acabado, Rimel"
+161,Vestido,$100.00,"Color, Talla, Forma, Textura, Tela, Precio, Largo, Corto, Diseño, Vestido"
+162,Falda,$110.00,"Color, Talla, Forma, Textura, Tela, Precio, Largo, Corto, Falda"
+163,Medias,$140.00,"Color, Talla, Forma, Textura, Tela, Precio, Largo, Medias"
+164,Organizadores,$50.00,"Papelería, Color, Económico, Cantidad, Capacidad, Organizador"
+165,Libro,$90.00,"Temática, Páginas, Novela, Trama, Género, Hojas, Nuevo, Libro"
+166,Termo,$140.00,"Capacidad, Color, Té, Café, Temperatura, Caliente, Frío, Material, Diseño, Termo"
+167,Pulsera,$30.00,"Color, Material, Económico, Bisutería, Plástico, Hilo, Goma, Accesorio, Joyas, Estilo, Adorno, Piedras, Pulsera"
+168,Collar,$30.00,"Color, Material, Económico, Bisutería, Plástico, Hilo, Goma, Accesorio, Joyas, Estilo, Adorno, Piedras, Collar"
+169,Agenda,$80.00,"Papelería, Hojas, Tamaño, Textura, Tipo, Agenda"
+170,Amigurumis,$200.00,"Diseño, Material, Personaje, Color, Textura, Amigurumi"
+171,Pegamento Pestañas,$30.00,"Ingredientes, Color, Económico, Cosméticos, Maquillaje, Pestañas, Cara, Ojos, Pegamento"
+172,Espejo,$35.00,"Accesorios, Materiales, Cosméticos, Tamaño, Espejo"
+173,Lápiz De Cejas,$25.00,"Ingredientes, Color, Económico, Cosméticos, Maquillaje, Pestañas, Cara, Ojos, Cejas, Lápiz"
+174,Paleta Sombras,$90.00,"Ingredientes, Color, Económico, Cosméticos, Maquillaje, Pestañas, Cara, Ojos, Brochas, Paleta"
+175,Fijador,$50.00,"Ingredientes, Color, Económico, Cosméticos, Maquillaje, Pestañas, Cara, Ojos, Fijador"
+176,Perfume Bolsillo,$60.00,"Olor, Color, Marca, Diseño, Económico, Fragancia, Notas, Olfato, Ingredientes, Presentación, Concentración, Duración, Perfume"
+177,Polvo Hadas,$60.00,"Ingredientes, Color, Económico, Cosméticos, Maquillaje, Pestañas, Cara, Ojos, Brillo, Presentación, Marca, Estilo, Polvo"
+178,Brochas,$80.00,"Cantidad, Tamaño, Colores, Brillo, Estuche, Cosmético, Suavidad, Funcionalidad, Brocha"
+179,Rubor,$45.00,"Color, Rosa, Textura, Brillo, Polvo, Pigmentación, Rubor"
+180,Esponjas,$50.00,"Material, Esponjoso, Cantidad, Absorbentes, Suaves, Moldeables, Pequeños, Esponjas"
+181,Delineador,$30.00,"Negro, Café, Oscuro, Claro, Color, Pincel, Punta, Líquido, Delineador"
+182,Calcetas,$25.00,"Comodidad, Colores, Diseño, Textura, Precio, Moda, Estilo, Talla, Material, Calcetas"
+183,Cepillo,$50.00,"Diseño, Material, Cerdas, Cepillo"
+184,Chaleco,$90.00,"Abrigador, Caliente, Suavidad, Chaleco"
+185,Folder,$35.00,"Papelería, Hojas, Capacidad, Folder"
+186,Borrador,$30.00,"Papelería, Borrador, Práctico, Borrador"
+187,Funko Llavero,$90.00,"Personaje, Llavero, Diseño, Color, Funko"
+188,Top,$100.00,"Color, Material, Blusa, Largo, Corto, Económico, Top"
+189,Series Navideñas,$110.00,"Focos, Series, Luces, Navidad, Colores, Duración"
+190,Gorros,$90.00,"Textura, Material, Frío, Color, Gorro, Estambre, Tela"
+191,Aretes,$35.00,"Bisutería, Orejas, Diseño, Estilo, Moda, Aretes"
+192,Pantunflas,$160.00,"Comodidad, Peluche, Estilo, Antideslizantes, Térmicos, Textura, Suaves, Acolchonadas, Talla, Pantunflas"
+193,Bálsamo,$45.00,"Hidratación, Cosmético, Bálsamo, Ingredientes, Aloe, Manzanilla, Resequedad, Suavidad, Natural, Protección"
+194,Tote Bag,$120.00,"Bolsa, Tela, Diseño, Tote-Bag, Práctica, Reutilizable, Resistencia, Capacidad"
+195,Sombra Líquida,$45.00,"Maquillaje, Ingredientes, Rostro, Color, Brillo, Calidad, Marca, Sombra"
+196,Gomitas Enchiladas,$20.00,"Chile, Chamoy, Panditas, Gusanitos, Tajín, Tamarindo, Gomitas"
+197,Botella De Agua,$85.00,"Tuper, Botella, Práctico, Color, Capacidad, Tamaño, Botella, Agua"
+198,Manzana Cubiertas De Tamarindo,$20.00,"Manzana, Snack, Agridulce, Tamarindo, Tajín, Chile, Cubierta"
+199,Vapes,$110.00,"Cigarro, Electrónico, Vape, Sabor, Vaporizador, Recargable, Luz, Led, Diseño"
+200,Diadema,$30.00,"Accesorio, Belleza, Cabello, Diadema"
+201,Pasador De Cabello,$30.00,"Accesorio, Color, Decoración, Material, Diseño, Flores, Estrellas, Cabello, Pasador"
+202,Ligas De Cabello,$30.00,"Elásticos, Cabello, Ligas, Grosor, Perlas, Peinados, Estilo"
+203,Scrunchies,$25.00,"Elásticos, Cabello, Scrunchie, Grosor, Perlas, Peinados, Estilo"
+204,Moño,$25.00,"Tela, Terciopelo, Plástico, Cabello, Moño, Color, Pequeños, Cómodos, Resistentes"
+205,Pizarra Organizadora,$100.00,"Pizarra, Papelería, Organización, Decoración, Planificación, Horario"
+206,Post It,$25.00,"Tamaño, Post It, Papelería, Notes"
+207,Resaltador,$15.00,"Color, Papelería, Resaltador, Escritura, Resaltar"
+208,Regla,$10.00,"Centímetros, Color, Diseño, Cantidad, Brillantes"
+209,Portalapiz,$50.00,"Capacidad, Color, Material, Lapiz"
+210,Engrapadora,$35.00,"Cantidad, Grapas, Material, Papelería, Engrapadora"
+211,Perforadora,$35.00,"Papelería, Color, Económico, Cantidad, Capacidad, Perforadora"
+212,Caja De Colores,$70.00,"Papelería, Hojas, Tamaño, Lápices, Marca, Colores"
+213,Hojas De Color,$100.00,"Colores, Paquete, Carta, Papelería"
+214,Hojas Blancas,$80.00,"Paquete, Hojas, Carta, Oficio, Carpeta"
+215,Plumones,$150.00,"Color, Papelería, Pincel, Plumón, Herramientas, Escritura, Punta, Fina, Mediana, Gruesa, Aceite, Agua, Plástico, Tela"
+216,Cuaderno,$110.00,"Papelería, Hojas, Tamaño, Diseño, Tipo, Cuaderno, Profesional, Escritura, Nota, Dibujo"
+217,Rotulador,$30.00,"Color, Papelería, Punta, Dibujo, Tinta, Secado, Rotulador, Tono, Espiral, Cosido, Pegado"
+218,Acuarelas,$40.00,"Color, Papelería, Pincel, Pigmento, Gama, Transparencia, Secado, Mezclabilidad, Artístico, Tono, Matices, Acuarela"
+219,Funda Para Iphone,$131.00,"Iphone, Celular, Proteccion, Apple"
+220,Airpods,"$2,500.00","Iphone, Auricular, Musica, Bluetooth, Apple"
+221,Audifonos Skullcandy,$550.00,"Musica, Auricular, Celular, Cable, Skullcandy"
+222,Bocina Skullcandy,$940.00,"Musica, Skullcandy, Altavoz, Dispositivo Electronico"
+223,Pastel De Queso,$330.00,"Dulce, Postre, Pan, Comida, Suave, Queso, Delicioso, Llenador, Leche"
+224,Pastel De Zarzamora,$350.00,"Dulce, Postre, Pan, Comida, Suave, Zarzamora, Delicioso, Llenador, Fruta"
+225,Pay De Limon,$25.00,"Dulce, Postre, Pan, Comida, Suave, Limon, Delicioso, Llenador, Fruta, Acido, Pequeño, Barato, Galleta"
+226,Pay De Manzana,$25.00,"Dulce, Postre, Pan, Comida, Suave, Manzana, Delicioso, Llenador, Fruta, Acido, Pequeño, Barato, Galleta"
+227,Playera Cruz Azul,"$1,350.00","Ropa, Comodo, Futbol, Cruz Azul"
+228,Termo,$150.00,"Cafe, Caliente, Bebida, Envase, Metalico"
+229,Pluma Negra,$10.00,"Util, Escolar, Escribir, Tinta, Papelería"
+230,Bloc De Notas,$35.00,"Util, Escolar, Escribir, Nota, Papel, Papelería"
+231,Portacredenciales,$60.00,"Proteccion, Escolar, Credencial, Identificacion, Tarjetas, Accesorio"
+232,Pelota Para Perro,$50.00,"Juguete, Perro, Mascota, Divertido"
+233,Rascador Para Gato,$380.00,"Juguete, Gato, Mascota, Grande"
+234,Caña Para Gato,$60.00,"Juguete, Gato, Mascota, Divertido"
+235,Botella De Agua,$150.00,"Agua, Envase, Bebida, Deportivo, Gimnasio"
+236,Tarjeta De Regalo Spotify,$200.00,"Musica, Suscripcion, Spotify, Barato"
+237,Reloj De Pulsera,$140.00,"Accesorio, Hora, Moda, Elegante"
+238,Camiseta Estampado Naruto,$130.00,"Ropa, Algodón, Moda, Diseño, Anime, Naruto"
+239,Lentes De Sol,$140.00,"Accesorio, Protección, Moda, Lentes"
+240,Collar Artesanal,$330.00,"Joyería, Hecho A Mano, Moda, Único, Accesorio"
+241,Cartera,$220.00,"Accesorio, Dinero, Tarjetas, Duradero"
+242,Espejo De Mano,$40.00,"Accesorio, Belleza, Compacto, Práctico, Barato"
+243,Sandalias Para Playa,$150.00,"Calzado, Verano, Comodo, Playa"
+244,Kit De Destornilladores,$160.00,"Herramientas, Reparación, Versátil, Portatil"
+245,Gorra De Visera,$230.00,"Accesorio, Deportivo, Protección Solar, Moda, Casual"
+246,Gorra Plana,$450.00,"Ropa, Accesorio, Protección Solar, Moda, Casual, Comodo"
+247,Gorra De Pescador,$120.00,"Ropa, Accesorio, Protección Solar, Moda, Casual, Comodo, Playa, Verano"
+248,Paquete De Calcetines,$190.00,"Ropa, Algodon, Diseño, Coloridos, Comodo, Variado"
+249,Bolsa De Tela,$50.00,"Moda, Reutilizable, Sostenible, Compras, Ecologico"
+250,Juego De Dominó,$135.00,"Juego, Entretenimiento, Clásico, Estrategia"
+251,Bufanda,$110.00,"Accesorio, Invierno, Abrigada, Elegante"
+252,Lápices De Colores,$140.00,"Útil, Escolar, Arte, Creatividad, Dibujo"
+253,Toalla,$90.00,"Hogar, Baño, Suave, Absorbente, Tela, Algodon"
+254,Monedero,$80.00,"Accesorio, Dinero, Pequeño, Práctico"
+255,Paquete De Kleenex,$8.00,"Higiene, Papel, Suave, Limpieza"
+256,Paraguas,$200.00,"Accesorio, Lluvia, Portátil, Resistente, Metalico"
+257,Impermeable,$60.00,"Ropa, Lluvia, Resistente, Comodo"
+258,Brochas De Maquillaje,$180.00,"Belleza, Maquillaje, Suave, Cosmetico"
+259,Kit Organizador De Cables,$130.00,"Accesorio, Tecnología, Orden, Práctico, Cable, Dispositivo Electronico"
+260,Sombras Para Ojos,$250.00,"Belleza, Maquillaje, Variedad, Pigmentación, Cosmetico"
+261,Cepillo Para Mascotas,$170.00,"Mascota, Cuidado, Pelo, Suave, Perro, Gato, Higiene"
+262,Gorro De Tela,$55.00,"Accesorio, Invierno, Cálido, Moderno, Frio, Comodo, Ropa, Accesorio"
+263,Lentes Para Lectura,$120.00,"Accesorio, Lectura, Graduados, Moderno, Leer, Libro, Lentes"
+264,Caja De Almacenamiento Transparente,$220.00,"Organización, Almacenamiento, Transparente, Práctico, Resistente"
+265,Kit De Costura,$180.00,"Costura, Reparación, Portátil, Completo, Herramientas, Confeccion"
+266,Marco Para Fotos,$80.00,"Hogar, Decoración, Fotos, Moderno, Resistente, Grande"
+267,Imanes Para Refrigerador,$45.00,"Hogar, Decoración, Práctico, Colorido, Cocina, Refrigerador"
+268,Velas Aromáticas,$110.00,"Hogar, Decoración, Aromático, Relajante"
+269,Póster De Naruto,$35.00,"Hogar, Decoración, Anime, Naruto"
+270,Cubo Rubik 3X3,$80.00,"Juego, Colorido, Entretenimiento, Clásico, Rompecabezas"
+271,Refresco Sprite,$25.00,"Bebida, Chatarra, Dulce, Lata, Refrescante"
+272,Set De Anillos,$90.00,"Accesorio, Moda, Anillos, Conjunto, Elegante"
+273,Batería Externa Para Dispositivos,$330.00,"Tecnología, Carga, Portátil, Batería, Celular, Computadora, Laptop, Dispositivo Electronico"
+274,Funda Para Laptop,$220.00,"Tecnología, Protección, Portátil, Elegante, Computadora, Laptop, Dispositivo Electronico"
+275,Set De Pinceles,$135.00,"Arte, Organización, Pintura, Completa, Creatividad, Escolar"
+276,Teclado Mecánico Gamer,$650.00,"Tecnología, Gamer, Iluminacion, Ergonómico, Rgb, Computadora, Videojuego, Dispositivo Electronico"
+277,Bolso De Mano,$350.00,"Accesorio, Moda, Cuero, Elegante, Mujer, Ropa"
+278,Alfombrilla Para Ratón Gamer,$160.00,"Tecnología, Gamer, Rgb, Mouse, Computadora, Resistente, Comodo"
+279,Mouse Gamer,$370.00,"Tecnología, Gamer, Rgb, Mouse, Computadora, Laptop, Videojuego, Accesorio"
+280,Lampara Led Usb,$70.00,"Tecnología, Iluminación, Portátil, Led, Rgb"
+281,Funda Impermeable Para Celular,$140.00,"Protección, Impermeable, Transparente, Lluvia, Celular, Iphone"
+282,Botas Para Lluvia,$250.00,"Resistente, Proteccion, Calzado, Comodo, Ropa"
+283,Altavoz Bluetooth,$230.00,"Tecnología, Música, Portátil, Inalámbrico, Bluetooth, Altavoz, Dispositivo Electronico"
+284,Espinilleras Para Fútbol,$300.00,"Deportivo, Fútbol, Protección, Ajustable, Comodo"
+285,Bolsa Deportiva Resistente Al Agua,$170.00,"Deportivo, Viaje, Impermeable, Portátil, Resistente, Accesorio, Gimnasio, Lluvia, Almacenamiento"
+286,Soporte Ajustable Para Celular,$90.00,"Tecnología, Soporte, Ajustable, Portátil, Dispositivo Electronico, Celular, Comodo"
+287,Linterna Led Recargable,$185.00,"Tecnología, Iluminación, Recargable, Portátil, Led"
+288,Estuche Para Lentes,$90.00,"Accesorio, Protección, Lentes, Portátil, Almacenamiento"
+289,Red Bull,$30.00,"Bebida, Energetico, Dulce, Deportivo, Gimnasio, Lata"
+290,Mochila Escolar,$150.00,"Útil, Escolar, Almacenamiento, Moda"
+291,Mini Banco Plegable,$100.00,"Mueble, Portátil, Exterior, Descanso"
+292,Set Desarmadores Reparacion,$85.00,"Herramientas, Organización, Portátil"
+293,Cosmetiquera,$50.00,"Almacenar, Transportar, Maquillaje, Transparente"
+294,Lámpara De Escritorio,$90.00,"Iluminación, Estudio, Ajustable, Moderna"
+295,Cinturón De Cuero,$50.00,"Accesorio, Moda, Duradero, Ajustable"
+296,Set De Tazas De Café Navidad,$200.00,"Vajilla, Café, Juego, Cerámica, Navidad"
+297,Bolsa Térmica,$120.00,"Comida, Viaje, Térmica, Portátil"
+298,Imitacion Camara Antigua,$120.00,"Fotografía, Divertido, Analógico, Recuerdos"
+299,Termómetro Digital,$100.00,"Salud, Medición, Digital, Preciso"
+300,Pastillero Semanal,$35.00,"Medicina, Portatil, Organizar, Enfermedad."
+301,Semillas De Plantas,$50.00,"Jardín, Plantas, Ecologia"
+302,Plantas Suculentas,$60.00,"Decoración, Plantas, Fáciles De Cuidar"
+303,Juego De Platos De Cerámica,$200.00,"Vajilla, Cerámica, Elegante, Duradero"
+304,Cojin Con Imagen,$70.00,"Hogar, Decoración, Suave, Diseño"
+305,Set De Cubiertos Portatiles De Plastico,$100.00,"Vajilla, Duradero, Plastico, Lunch, Comer"
+306,Estuche Para Maquillaje,$50.00,"Belleza, Maquillaje, Organización, Elegante"
+307,Mini Báscula Digital,$120.00,"Pesaje, Medición, Digital, Precision"
+308,Juego De Cuchillos De Cocina Navideños,$200.00,"Cocina, Corte, Duradero, Afilado"
+309,Organizador De Zapatos Colgante,$80.00,"Organización, Zapatos, Colgante, Práctico"
+310,Bolsa De Dormir Ligera,$120.00,"Camping, Dormir, Ligera, Portátil"
+311,Portatarjetas De Crédito Rfid,$50.00,"Accesorio, Seguridad, Tarjetas, Delgado."
+312,Organizador De Cables Magnético,$30.00,"Tecnología, Organización, Imanes, Práctico."
+313,Rompecabezas 3D,$120.00,"Juguete, Entretenimiento, Creatividad, Desafiante, 3D."
+314,Botiquín De Primeros Auxilios,$70.00,"Salud, Emergencia, Portátil, Completo."
+315,Cepillo Facial Eléctrico,$150.00,"Belleza, Cuidado Facial, Limpieza, Recargable."
+316,Set De Utensilios De Cocina De Silicona,$85.00,"Cocina, Utensilios, Colorido."
+317,Mini Bote De Basura,$35.00,"Deshechos, Util, Hogar."
+318,Mica Para Nintendo Switch,$55.00,"Proteccion, Videojuego, Resistente."
+319,Cargador Solar,$200.00,"Bateria, Portatil, Solar, Portatil."
+320,Organizador De Anillos,$140.00,"Joyería, Organización, Colgante, Práctico."
+321,Set De Herramientas Para Desarmar Reloj,$200.00,"Herramientas, Relojes, Completo, Duradero."
+322,Espejo De Aumento Con Luz,$80.00,"Belleza, Maquillaje, Iluminado, Portátil."
+323,Caja De Almacenamiento De Maquillaje,$120.00,"Belleza, Maquillaje, Organización, Transparente."
+324,Rompecabezas,$200.00,"Juguete, Entretenimiento, Creatividad, Desafiante, Divertido"
+325,Cámara De Seguridad Wifi,$400.00,"Tecnología, Seguridad, Vigilancia, Inalámbrica."
+326,Soporte Para Laptop Ajustable,$150.00,"Tecnología, Ergonómico, Portátil, Ajustable."
+327,Báscula De Cocina Digital,$150.00,"Cocina, Medición, Digital, Precisa."
+328,Candado De Seguridad Con Huella Dactilar,$200.00,"Seguridad, Tecnología, Huella, Resistente."
+329,Toalla Para La Cara,$70.00,"Hogar, Baño, Suave, Absorbente."
+330,Porta Fruta,$25.00,"Comida, Viaje, Portatil."
+331,Canasta Para Picnic Desarmable,$140.00,"Viaje, Picnic, Portátil, Práctico."
+332,Set De Vasos Para Shots,$120.00,"Hogar, Bebida, Fiesta."
+333,Bolsa Térmica Para Almuerzo,$80.00,"Hogar, Comida, Térmica, Portátil."
+334,Tapete Para Yoga Antideslizante,$60.00,"Deporte, Yoga, Antideslizante, Cómoda."
+335,Portatazas Usb,$140.00,"Hogar, Bebida, Viaje, Calor."
+336,Cepillo Para Perros,$120.00,"Mascota, Cuidado, Dientes."
+337,Set De Cuchillos De Chef,$250.00,"Cocina, Corte, Duradero, Afilado."
+338,Pesas Para Tobillos,$130.00,"Deporte, Ajustable, Cómoda."
+339,Botella De Agua Congelada De Sabor,$25.00,"Comida, Bebida, Frío."
+340,Organizador De Piercings,$75.00,"Piercing, Organización."
+341,Kit De Manicura,$135.00,"Belleza, Cuidado Personal, Manicura."
+342,Manta De Picnic Impermeable,$100.00,"Jardin, Picnic, Impermeable, Portátil."
+343,Candado De Combinación,$150.00,"Seguridad, Viaje, Combinación, Práctico."
+344,Figura Decorativa De Cerámica,$100.00,"Hogar, Cerámica, Decoracion."
+345,Gorro De Baño,$20.00,"Baño, Cuidado, Cómoda."
+346,Cortador De Verduras En Espiral,$70.00,"Cocina, Utensilio, Saludable, Fácil De Usar."
+347,Mochila De Camping,$300.00,"Deporte, Camping, Resistente, Amplia."
+348,Juego De Fundas Decorativas Para Cojines,$80.00,"Hogar, Decoración, Colorido, Suave."
+349,Juego De Mesa,$120.00,"Juguete, Juego, Divertido, Colorido."
+350,Agujetas,$30.00,"Ropa, Colorido, Utilidad, Barato."
+351,Esquimo,$35.00,"Bebida, Frio, Dulce, Delicioso."
+352,Juguetes De Goma,$35.00,"Coloridos, Aplastable, Desestres, Formas."
+353,Manga,$120.00,"Lectura, Comic, Japón, Hojas."
+354,Chanclas,$80.00,"Comoda, Plastico, Barato, Calzado."
+355,Abrigo,$200.00,"Calentar, Abrigador, Ropa, Suave."
+356,Botas,$200.00,"Calzado, Resistente, Protector, Casual."
+357,Libreta,$50.00,"Util, Escolar, Hojas, Colores, Creativo, Notas."
+358,Aro De Luz,$140.00,"Video, Grabacion, Fotos, Estudio, Creativo, Contenido"
+359,Pilas,$20.00,"Energia, Electronicos."
+360,Llavero,$50.00,"Personalizado, Ligero, Compacto, Duradero, Variedad De Colores"
+361,Pulsera,$80.00,"Hecha A Mano, Ajustable, Estilo Bohemio, Ligera, Combinación De Materiales"
+362,Marcadores,$35.00,"Punta Fina, Colores Vibrantes, Secado Rápido, No Tóxicos, Paquete De 5 Unidades"
+364,Funda Para Celular,$100.00,"Resistente, Bolsillo Para Tarjetas, Cierre Magnético, Estampado, Compatible Con Varios Modelos"
+365,Mouse Inalámbrico,$120.00,"Ergonómico, Preciso, Inalámbrico, Compacto, Botones Programables"
+366,Lápices De Colores,$40.00,"Madera De Calidad, Colores Surtidos, Punta Suave, No Tóxicos, Estuche Incluido"
+367,Porta Tarjetas,$70.00,"Cuero Sintético, Delgado, Bolsillos Múltiples, Fácil De Llevar, Moderno"
+368,Juego De Imanes,$25.00,"Potentes, Variados, Decorativos Y Funcionales, Fácil De Colocar,"
+369,Espejo Compacto,$90.00,"Doble Cara, Plegable, Tamaño De Bolsillo, Ligero, Protector Incluido"
+370,Pinzas Decorativas,$30.00,"Acero Inoxidable, Decoración Floral, Uso Versátil, Fácil De Sujetar"
+371,Portavasos Plegable,$75.00,"Plástico Resistente, Plegable, Ligero Y Compacto, Fácil De Transportar"
+372,Linterna Led,$55.00,"Pequeña Y Portátil, Brillante, Funciona Con Pilas, Botón De Encendido"
+373,Libreta De Bolsillo,$85.00,"Tapa Dura, Rayada, Tamaño De Bolsillo, Ligera, Ideal Para Apuntes Rápidos"
+374,Tarjetero,$65.00,"Cuero Sintético, Varios Compartimentos, Cierre Seguro, Ligero Y Compacto"
+375,Cargador Portátil,$150.00,"Delgado, Alta Capacidad, Puerto Usb, Ligero Y Compacto, Indicadores Led"
+376,Collar Minimalista,$110.00,"Acero Inoxidable, Sencillo, Ajustable, Ligero Y Cómodo, Elegante"
+377,Organizador De Cables,$45.00,"Silicona Flexible, Reutilizable, Ordena Y Organiza Cables, Fácil De Instalar"
+378,Bolsas Reutilizables,$80.00,"Tela Resistente, Lavables, Ecológicas, Fácil De Llevar, Paquete De 4 Unidades"
+379,Peine Plegable,$40.00,"Resistente, Plegable, Compacto, Fácil De Llevar, Ideal Para Viajes"
+380,Llavero De Cuero,$60.00,"Personalizado, Ligero, Compacto, Elegante, Cuero Genuino"
+381,Pulsera De Cuentas,$70.00,"Hecha A Mano, Ajustable, Colorida, Elegante, Estilo Bohemio"
+382,Marcapáginas Magnético,$30.00,"Práctico, Diseños Variados, Delgado, Ligero, Magnético"
+383,Estuche De Cuero,$55.00,"Elegante, Resistente, Compacto, Cuero Sintético, Cierre Seguro"
+384,Soporte Para Teléfono,$40.00,"Ajustable, Plegable, Ligero, Resistente, Múltiples Ángulos"
+385,Teclado Plegable,$120.00,"Bluetooth, Plegable, Compacto, Resistente Al Agua, Batería Recargable"
+386,Porta Tarjetas Metálico,$75.00,"Diseño Minimalista, Ligero, Compacto, Metálico, Fácil De Llevar"
+387,Lápiz De Tinta,$20.00,"Tinta Negra, Escritura Suave, Diseño Elegante, Punta Fina, No Tóxico"
+388,Tijeras Plegables,$45.00,"Plegables, Compactas, Acero Inoxidable, Seguras, Uso Versátil"
+389,Espejo De Bolsillo,$50.00,"Doble Cara, Plegable, Tamaño Compacto, Ligero, Ideal Para Viajes"
+390,Pinzas Para Ropa,$25.00,"Madera, Resistentes, Diseños Variados, Uso Versátil, Paquete De 10 Unidades"
+391,Organizador De Escritorio,$80.00,"Madera, Espacios Múltiples, Estilo Moderno, Ligero, Fácil De Transportar"
+392,Linterna Portátil Led,$65.00,"Pequeña Y Potente, Resistente Al Agua, Funciona Con Pilas, Ideal Para Camping"
+393,Cuaderno De Notas,$35.00,"Tapa Dura, Hojas Rayadas, Tamaño De Bolsillo, Ligero, Ideal Para Apuntes Rápidos"
+394,Porta Tarjetas Rfid,$90.00,"Protección Rfid, Cuero Sintético, Varios Compartimentos, Cierre Seguro"
+395,Auriculares Inalámbricos,$130.00,"Bluetooth, Cancelación De Ruido, Cómodos, Batería De Larga Duración"
+396,Collar De Perlas,$100.00,"Elegante, Perlas De Imitación, Ajustable, Ligero, Estilo Clásico"
+397,Organizador De Cables,$30.00,"Silicona, Reutilizable, Ordena Y Organiza Cables, Fácil De Instalar"
+398,Bolsas De Tela Reutilizables,$75.00,"Tela Resistente, Lavables, Ecológicas, Fácil De Llevar"
+399,Cepillo Dental Plegable,$15.00,"Plegable, Compacto, Cerdas Suaves, Higiénico, Ideal Para Viajes"
+400,Lámpara De Escritorio,$110.00,"Led, Regulable, Diseño Moderno, Bajo Consumo De Energía, Compacta"
+401,Billetera De Cuero,$90.00,"Cuero Genuino, Diseño Delgado, Múltiples Compartimentos, Elegante, Resistente"
+402,Juego De Velas,$40.00,"Aromáticas, Decorativas, Varios Tamaños, Duraderas, Relajantes"
+403,Soporte Para Libros,$60.00,"Madera, Ajustable, Plegable, Ligero, Estilo Vintage"
+404,Funda Para Tableta,$80.00,"Resistente, Bolsillo Adicional, Cierre Magnético, Diseño Estampado, Compatible Con Varios Modelos"
+405,Ratón Óptico Inalámbrico,$50.00,"Diseño Ergonómico, Preciso, Inalámbrico, Compacto, Botones Programables"
+406,Set De Marcadores,$35.00,"Colores Vibrantes, Punta Fina, Tinta De Secado Rápido, No Tóxicos,"
+407,Organizador De Documentos,$70.00,"Cuero Sintético, Múltiples Compartimentos, Diseño Elegante, Ligero,"
+408,Termo Para Bebidas,$120.00,"Acero Inoxidable, Doble Capa, Aislamiento Térmico, Tapa Hermética, Diseño Moderno"
+409,Reloj Despertador,$40.00,"Digital, Alarma, Luz Nocturna, Diseño Compacto, Pilas Incluidas"
+410,Bolsa Ecológica,$30.00,"Tela Resistente, Lavable, Diseños Ecológicos, Plegable, Práctica"
+411,Organizador De Maquillaje,$95.00,"Acrílico, Diseño Giratorio, Múltiples Compartimentos, Fácil De Limpiar, Elegante"
+412,Linterna Recargable,$55.00,"Led, Recargable, Resistente Al Agua, Varias Intensidades, Ideal Para Camping"
+413,Cuaderno De Dibujo,$25.00,"Hojas De Alta Calidad, Tapa Dura, Tamaño A4, Ideal Para Dibujantes, Ligero"
+414,Porta Tarjetas De Visita,$85.00,"Cuero Sintético, Varios Compartimentos, Cierre Seguro, Ligero Y Compacto"
+415,Altavoz Bluetooth,$150.00,"Bluetooth, Portátil, Sonido De Alta Calidad, Batería Recargable, Diseño Moderno"
+416,Collar Con Colgante,$70.00,"Acero Inoxidable, Colgante Personalizado, Ajustable, Ligero, Estilo Moderno"
+417,Organizador De Cables,$25.00,"Silicona, Reutilizable, Ordena Y Organiza Cables, Fácil De Instalar"
+418,Bolsas De Papel Kraft,$45.00,"Ecológicas, Resistentes, Reutilizables, Diseño Minimalista, Paquete De 10 Unidades"
+419,Báscula Digital,$90.00,"Digital, Precisa, Pantalla Lcd, Diseño Delgado, Peso Máximo De 150 Kg"
+420,Candelabro De Metal,$80.00,"Decorativo, Elegante, Diseño Vintage, Resistente, Fácil De Limpiar"
+421,Cartera De Cuero,$100.00,"Cuero Genuino, Diseño Clásico, Múltiples Compartimentos, Elegante, Resistente"
+422,Plantas Suculentas,$30.00,"Set De 3, Variados Tamaños, Decorativas, Fáciles De Cuidar, Macetas De Cerámica"
+423,Organizador De Joyas,$65.00,"Terciopelo, Múltiples Compartimentos, Diseño Elegante, Compacto"
+424,Mochila Antirrobo,$200.00,"Resistente Al Agua, Puerto Usb, Espacio Amplio, Compartimento Para Laptop"
+425,Teclado Mecánico,$150.00,"Retroiluminado, Mecánico, Diseño Ergonómico, Compacto, Conexión Usb"
+426,Set De Bolígrafos,$40.00,"Bolígrafos De Gel, Colores Surtidos, Escritura Suave, Estuche Incluido"
+427,Organizador De Archivos,$55.00,"Acrílico, Múltiples Secciones, Diseño Moderno, Ligero, Fácil De Limpiar"
+428,Botiquín De Primeros Auxilios,$120.00,"Completo, Compacto, Resistente, Fácil De Transportar"
+429,Taza Térmica,$70.00,"Acero Inoxidable, Térmica, Tapa Hermética, Diseño Moderno, Capacidad 500 Ml"
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
